@@ -1,4 +1,4 @@
-require 'rbnacl/libsodium'
+require 'rbnacl'
 
 require 'cryptor/symmetric_encryption/cipher'
 
